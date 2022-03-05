@@ -1,4 +1,4 @@
-Línuleg og tímaóháð kerfi
+Merki og kerfi
 ============
 
-Hér eru línuleg og tímaóháð kerfi. Þau eru sko kúl!
+Hér eru merki og kerfi. Þau eru sko kúl!
