@@ -8,9 +8,6 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 Using this theme
 ----------------
 
-:doc:`Merki og kerfi`
-    How to install this theme on your Sphinx project.
-
 :doc:`LHO`
     Theme configuration and customization options.
 
