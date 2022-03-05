@@ -20,3 +20,7 @@ html_theme_options = {
     'includehidden': True,
     'titles_only': False
 }
+
+# General information about the project.
+project = u'Merki og kerfi'
+copyright = '2022'
