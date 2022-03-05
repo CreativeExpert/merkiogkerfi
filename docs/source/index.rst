@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Merki og kerfi
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Merki og kerfi er góð undirstaða fyrir rafmagns- og tölvuverkfræði.
 
 .. note::
 
-   This project is under active development.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+Merki og kerfi
+Línuleg og tímaóháð kerfi
+Framsetning lotubundna Fourier raða
