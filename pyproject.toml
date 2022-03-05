@@ -2,7 +2,7 @@
 name = "Edbook-template"
 version = "0.1.0"
 description = ""
-authors = ["Benedikt Magnússon og fleiri"]
+authors = ["Einar Ari Arnason"]
 packages = [
     { include = "extensions" },
 #    { include = "projects" },
