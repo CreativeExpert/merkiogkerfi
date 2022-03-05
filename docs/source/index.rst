@@ -8,3 +8,4 @@ Merki og kerfi er góð undirstaða fyrir rafmagns- og tölvuverkfræði.
 
 .. toctree::
   :doc:`Merki og kerfi`
+  :doc:`LHO`
