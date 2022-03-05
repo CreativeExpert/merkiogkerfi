@@ -11,6 +11,6 @@ Contents
 
 .. toctree::
 
-Merki og kerfi
-Línuleg og tímaóháð kerfi
-Framsetning lotubundna Fourier raða
+  Merki og kerfi
+  Línuleg og tímaóháð kerfi
+  Framsetning lotubundna Fourier raða
