@@ -1,4 +1,4 @@
-Usage
+Merki og kerfi
 =====
 
 .. _installation:
