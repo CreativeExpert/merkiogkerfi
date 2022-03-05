@@ -22,7 +22,6 @@ Using this theme
    :maxdepth: 2
    :hidden:
 
-   Merki og kerfi
    LHO
     :caption: This is an incredibly long caption for a long menu
     :hidden:
