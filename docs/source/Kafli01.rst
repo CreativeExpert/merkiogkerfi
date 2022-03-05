@@ -1,4 +1,10 @@
 Merki og kerfi
 ============
 
-Hér eru merki og kerfi. Þau eru sko kúl!
+Inngangur
+---------
+Hér kemur inngangur
+---------
+
+Samfelld- og stakræn tímamerki
+-----
