@@ -6,7 +6,7 @@ Merki og kerfi er góð undirstaða fyrir rafmagns- og tölvuverkfræði.
 .. note::
 
 
-Contents
+:doc:`Merki og kerfi`
 --------
 
 .. toctree::
