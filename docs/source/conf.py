@@ -29,7 +29,7 @@ html_theme_options = {
 # -- Project information
 
 project = 'Merki og kerfi (RAF301G)'
-copyright = '2022, Einar Ari Árnason'
+copyright = 'u'2021-{}, Envoy Project Authors'.format(datetime.now().year), Einar Ari Árnason'
 author = 'Einar Ari Árnason'
 
 release = '0.1'
